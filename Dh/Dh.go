@@ -1,6 +1,5 @@
 package Dh
 import (
-  "fmt"
   "time"
   "math/big"
   "math/rand"
